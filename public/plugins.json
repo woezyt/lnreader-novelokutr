@@ -1,0 +1,11 @@
+[
+  {
+    "id": "noveloku",
+    "name": "Novel oku",
+    "site": "https://novelokutr.net",
+    "lang": "Turkish",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/woezyt/lnreader-novelokutr/master/plugins/multisrc/madara/sources.json",
+    "iconUrl": "https://raw.githubusercontent.com/woezyt/lnreader-novelokutr/master/public/static/multisrc/madara/noveloku/icon.png"
+  }
+]
