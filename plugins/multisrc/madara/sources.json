@@ -457,13 +457,11 @@
   },
   {
     "id": "noveloku",
-    "sourceSite": "https://noveloku.com.tr/",
+    "sourceSite": "https://novelokutr.net/",
     "sourceName": "Novel oku",
     "options": {
       "useNewChapterEndpoint": true,
       "lang": "Turkish",
-      "down": true,
-      "downSince": 1768289212959
     }
   },
   {
